@@ -4,12 +4,6 @@ Projeto simples desenvolvido em Python, utilizando a biblioteca Tkinter, usufrui
 📚 Sobre o Projeto
 
 Este projeto foi criado como uma maneira de treinar minahs habilidades e enriquecer meu portfólio
-🛠 Funcionalidades
-
-   -Soma
-   -Subtração
-   -Divisão
-   -Multiplicação
 
 🧠 Conceitos Utilizados
 
