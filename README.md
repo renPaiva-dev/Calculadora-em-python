@@ -1,6 +1,7 @@
 💇‍♀️ Calculadora em Python
 
 Projeto simples desenvolvido em Python, utilizando a biblioteca Tkinter, usufruindo dos alicerces de formatação de strings, funções e interfaces gráficas.
+
 📚 Sobre o Projeto
 
 Este projeto foi criado como uma maneira de treinar minhas habilidades e enriquecer meu portfólio
